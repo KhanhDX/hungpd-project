@@ -3,6 +3,34 @@
     background-color: white;
     width: 100%;
 }
+#NEW__COLLECTION{
+    left: 200px;
+    top: 200px;
+    position: absolute;
+    overflow: visible;
+    width: 1000px;
+    height: 372px;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 90px;
+    color: rgba(54,54,54,1);
+}
+
+#READY_TO_WEAR_CLOTHING_MADE_FO{
+    left: 700px;
+    top: 925px;
+    position: absolute;
+    overflow: visible;
+    width: 680px;
+    white-space: nowrap;
+    text-align: right;
+    font-family: Bodoni 72;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+}
 
 .chiacot {
     width: 1920px;
@@ -12,7 +40,7 @@
 
 .logo {
     text-align: left;
-    margin-top: 34px; 
+    margin-top: 34px;
     margin-left: 152px;
 }
 .text {
@@ -20,12 +48,12 @@
     width: 50%;
     margin-left: 425px;
     margin-top: 72px;
-    
+
 }
 
 .text a {
    color: black;
-   
+
    margin-right: 60px;
 
 
