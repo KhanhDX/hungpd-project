@@ -1,0 +1,32 @@
+.menu {
+    height: 144px ;
+    background-color: white;
+    width: 100%;
+}
+
+.chiacot {
+    width: 1920px;
+    margin: auto;
+    display: flex;
+}
+
+.logo {
+    text-align: left;
+    margin-top: 34px; 
+    margin-left: 152px;
+}
+.text {
+    text-align: right;
+    width: 50%;
+    margin-left: 425px;
+    margin-top: 72px;
+    
+}
+
+.text a {
+   color: black;
+   
+   margin-right: 60px;
+
+
+}
