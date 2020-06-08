@@ -17,7 +17,6 @@
 }
 .text {
     text-align: right;
-    width: 50%;
     margin-left: 425px;
     margin-top: 72px;
     
@@ -28,5 +27,16 @@
    
    margin-right: 60px;
 
+}
 
+.banner1 .anh{
+    width: 1920px;
+    height: 1010px;
+    margin-top: 80px;
+    position: relative;
+}
+
+.text2 {
+    position: absolute;
+    margin-top: 365px;
 }
