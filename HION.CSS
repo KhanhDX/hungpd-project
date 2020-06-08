@@ -4,8 +4,8 @@
     width: 100%;
 }
 #NEW__COLLECTION{
-    left: 200px;
-    top: 200px;
+    left: 400px;
+    top: 400px;
     position: absolute;
     overflow: visible;
     width: 1000px;
@@ -18,8 +18,8 @@
 }
 
 #READY_TO_WEAR_CLOTHING_MADE_FO{
-    left: 700px;
-    top: 925px;
+    left: 1100px;
+    top: 1375px;
     position: absolute;
     overflow: visible;
     width: 680px;
@@ -55,6 +55,160 @@
    color: black;
 
    margin-right: 60px;
+}
 
+#Component_3__1{
+    position: absolute;
+    width: 423px;
+    height: 85px;
+    left: 749px;
+    top: 2119px;
+    overflow: visible;
+}
 
+.Rectangle_22_cr{
+    position: absolute;
+    overflow: visible;
+    width: 423px;
+    height: 85px;
+    left: 0px;
+    top: 0px;
+}
+
+#SEE_THE_COLLECTION{
+    left: 91.972px;
+    top: 30px;
+    position: absolute;
+    overflow: visible;
+    width: 255px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat ExtraBold;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: rgba(5,5,5,1);
+}
+
+button{
+    transition-duration: 0.4s;
+}
+
+button:hover{
+    background-color: black;
+}
+
+span{
+    transition-duration: 0.3s;
+}
+
+span:hover{
+    color: white;
+}
+
+.Rectangle_18{
+    position: absolute;
+    overflow: visible;
+    width: 1922px;
+    height: 50px;
+    left: 0px;
+    top: 2445px;
+}
+
+#SUPPORTBOUTIQUES__Denim_Jacket{
+    opacity: 0.618;
+    left: 36.5px;
+    top: 2459px;
+    position: absolute;
+    overflow: visible;
+    width: 713px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat Medium;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+
+#SPECIAL_PRICES{
+    left: 792px;
+    top: 2445px;
+    position: absolute;
+    overflow: visible;
+    width: 339px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat SemiBold;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    color: rgba(255,255,255,1);
+}
+
+#SUPPORTBOUTIQUES__Denim_Jacket_ck{
+    opacity: 0.618;
+    left: 1173.5px;
+    top: 2459px;
+    position: absolute;
+    overflow: visible;
+    width: 713px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Montserrat Medium;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+}
+
+#SUPPORTBOUTIQUES__Denim_Jacket_cl{
+    left: 570px;
+    top: 2621px;
+    position: absolute;
+    overflow: visible;
+    width: 782px;
+    height: 75px;
+    text-align: center;
+    font-family: Montserrat Medium;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: rgba(118,118,118,1);
+}
+
+#Anh_chup_Man_hinh_2020-05-28_l{
+    position: absolute;
+    width: 351px;
+    height: 476px;
+    left: 140px;
+    top: 2779px;
+    overflow: visible;
+}
+
+#Anh_chup_Man_hinh_2020-05-28_l_b{
+    position: absolute;
+    width: 351px;
+    height: 476px;
+    left: 570px;
+    top: 2779px;
+    overflow: visible;
+}
+
+#Anh_chup_Man_hinh_2020-05-28_l_ca{
+    position: absolute;
+    width: 351px;
+    height: 476px;
+    left: 999px;
+    top: 2779px;
+    overflow: visible;
+}
+
+#Anh_chup_Man_hinh_2020-05-28_l_cb{
+    position: absolute;
+    width: 351px;
+    height: 476px;
+    left: 1429px;
+    top: 2779px;
+    overflow: visible;
 }
