@@ -78,7 +78,7 @@
 
 #SEE_THE_COLLECTION{
     left: 85px;
-    top: 28px;
+    top: 25px;
     position: absolute;
     overflow: visible;
     width: 255px;
@@ -92,7 +92,7 @@
 }
 
 button{
-    transition-duration: 0.4s;
+    transition-duration: 0.1s;
 }
 
 button:hover{
@@ -100,7 +100,7 @@ button:hover{
 }
 
 span{
-    transition-duration: 0.3s;
+    transition-duration: 0.1s;
 }
 
 span:hover{
@@ -212,5 +212,78 @@ span:hover{
     left: 1429px;
     top: 2779px;
     overflow: visible;
+}
+
+.chiacot2ben {
+    margin-top: 1300px;
+    width: 1920px;
+    display: flex;
+}
+.chiacot2ben .cottraianh img {
+    width: 850px;
+    height: 995px;
+    margin-left: 80px;
+}
+.chiacot2ben .cotphaichu h3 {
+  margin-left: 80px;
+}
+
+.chiacot2ben .cotphaichu h4{
+    margin-left: 80px;
+}
+.chicot2ben2 {
+    width: 1920px;
+    display: flex;
+}
+.chiacot2ben2 .cotphaianh img {
+    width: 850px;
+    height: 995px;
+    margin-left: 1015px;
+    margin-top: -170px;
+}
+.chiacot2ben2 .cottraichu {
+    margin-top: 65px;
+}
+.chiacot2ben2 .cottraichu h3 {
+  margin-left: 80px;
+  width: 680px;
+}
+
+.chiacot2ben2 .cottraichu h4{
+    margin-left: 80px;
+    width: 680px;
+    
+}
+
+.footer .mauden{
+    width: 1920px;
+    height: 670px;
+    background-color: #242424;
+    margin-top: 144px;
+    position: absolute;
+    overflow: visible;
+    
+}
+
+.footer h4{
+    text-align: center;
+    top: 100px;
+    position: absolute;
+    overflow: visible;
+    left: 705px;
+    
+}
+
+.footer .chia5cot{
+    display: flex;
+    position: absolute;
+    overflow: visible;
+    left: 415px;
+    top: 305px;
+
+}
+.footer .chia5cot a {
+    padding-left: 120px;
+    color: white;
 }
 
